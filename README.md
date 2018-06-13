@@ -1,2 +1,2 @@
 # hello-world
-Github initiation
+Let s post a good commit msg
